@@ -1,0 +1,9 @@
+104.
+Lenyomod a kilincset, mely enged. Az ajtó csak nehezen nyílik. Egy lakószobaszerűségbe jutsz, melyben asztalok, székek és polcok vannak, a falakon meg állatfejek. A földön puha gyapjúszőnyeg hever. Az egyik állatfej hirtelen feléd fordul és rád néz. Valamilyen kutya ez, mely hangosan ugatva figyelmeztet nemcsak téged, hanem minden cimboráját, aki hallótávolságon belül van. Miközben ezt a kutyafejet nézed, nem veszed észre, hogy a szőnyeg felemelkedik a földről és feléd repülve elsuhan a füled mellett. Épp jókor fordulsz meg, mert az egyik szék lassan magas férfivá változik. "Mit keresel itt?" - mordul rád. Mit teszel?
+
+Megpróbálsz beszélni vele?	Lapozz a 266-ra.
+Varázsolsz egyet?		Lapozz a 310-re.
+Hátizsákodban fegyvert vagy valamilyen
+ajándékot keresel?		Lapozz az 54-re.
+Gyorsan elhagyod a szobát, és megpróbál-
+kozol egy másik ajtóval?	Lapozz a 25-re.

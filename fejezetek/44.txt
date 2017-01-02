@@ -1,0 +1,7 @@
+44.
+A szoba már nem mozog, és a földre veted magad. A fegyverszekrény zárva van, de te letörheted a lakatot, vagy előveheted a hátizsákodat, és kereshetsz benne olyan fegyvert, amit használhatsz. Mit teszel?
+
+Választasz a szekrényből egy
+fegyvert?			Lapozz a 353-ra.
+Előveszel a hátizsákodból egy
+tárgyat?			Lapozz a 277-re.

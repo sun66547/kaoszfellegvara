@@ -1,0 +1,13 @@
+1.
+A nap lemenőben van. Miközben a szürkületből Sötétség lesz, felfelé indulsz a domboldalon az éjszakai égboltra vetülő visszataszító árny felé. A Fellegvárig nem egészen egy óra az út.
+A falaktól nem messze megállsz pihenni - ez hiba, hiszen a félelmetes látvány azt sugallja, hogy innen nincs menekülés. Feláll a szőr a hátadon, amint a Torony felé pillantasz.
+De szégyelled a félelmeidet. Komor elszántsággal elindulsz a főkapu felé, ahol - ezt jól tudod - őrök várnak rád. Számba veszed a lehetőségeidet. Már gondoltál rá, hogy azt mondod, gyógynövénygyűjtő vagy, és azért jöttél, hogy meggyógyíts egy lázas őrt. Kiadhatod magad kereskedőnek, kézművesnek, talán ácsnak is. Esetleg vándornak, aki éjjeli menedéket keres.
+Amint azon töprengsz, milyen lehetőségeid vannak és mit fogsz bemesélni az őröknek, eléred a főkapuhoz vezető központi ösvényt. A függőhíd mindkét oldalán egy-egy lámpa ég.
+Amint közelebb jutsz, halk morgást hallasz, majd két torz figura lép elő a sötétből. A bal oldalinak kutyafeje van, a teste meg nagy majomra emlékeztet. Igen erős karjai vannak. A másik pontosan az ellentéte. Ennek a feje majmot, a teste nagy kutyát idéz. Ez utóbbi négy lábon közelít feléd. Néhány lépésnyire megáll, és két hátsó lábára emelkedve megszólít.
+
+Kinek adod ki magad?
+Orvosnak, aki gyógynövényekkel
+gyógyít?			Lapozz a 261-re.
+Kereskedőnek?			Lapozz a 230-ra.
+Vándornak, aki szállást kér
+éjszakára?			Lapozz a 20-ra.

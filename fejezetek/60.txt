@@ -1,0 +1,7 @@
+60.
+A teremtmények gyanakodni kezdenek, amikor látják, hogy mennyire érdeklődsz. A Törpe talpra szökken, és meglengeti a levegőben a kezében lévő bunkósbotot. A Goblin és az Ork karddal támad rád. A Goblin barátnője visítva hátrál, míg a többiek rád rontanak. Meg kell küzdened velük. Melyik varázslatot alkalmazod?
+
+A Súlytalanság Varázslatot?	Lapozz a 33-ra.
+Az Illúzió Varázslatot?		Lapozz a 295-re.
+
+Ha nem akarsz varázsolni, megküzdhetsz velük a kardoddal, lapozz a 213-ra.

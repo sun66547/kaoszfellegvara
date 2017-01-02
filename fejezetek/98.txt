@@ -1,0 +1,10 @@
+98.
+A feléd közelítő Gólem lomha mozgású teremtmény, és így könnyedén eléred a ládikókat. Átkozódsz, amikor látod, hogy mind zárva van. Miközben a zárakkal bajlódsz, a Gólem egyre jobban megközelít. Mit teszel?
+
+Kardot rántasz, hogy megküzdj
+a teremtménnyel?		Lapozz a 303-ra.
+Tűzvarázslatot alkalmazol?	Lapozz a 4-re.
+Teremtmény Hasonmás Varázslatot
+alkalmazol?			Lapozz a 190-re.
+Otthagyod a ládikódat, és az ajtó
+felé rohansz?			Lapozz a 237-re.

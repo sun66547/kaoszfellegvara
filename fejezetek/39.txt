@@ -1,0 +1,6 @@
+39.
+Amikor előveszed az Üveget, a Gendzsik felhördülnek. "Racknee! - kiáltja egy hang. - Hát visszahoztad!" Amikor ezt kimondja, egy láthatatlan kéz kikapja az Üveget a kezedből, leteszi a földre és felnyitja a tetejét. A Pók-Ember feléd fordul és rád mordul. Kardot rántasz, mert a furcsa állatember haragosan csápozik feléd. Meg kell vele küzdened:
+
+Pók-Ember	ÜGYESSÉG 7	        ÉLETERŐ 5
+
+Amikor a Pók-Ember rád méri az első csapást, lapozz a 208-ra. Ha te győzöl, anélkül hogy megsebesítene, kardoddal kell megvívnod a Gendzsikkel. Lapozz a 248-ra.

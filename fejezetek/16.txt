@@ -1,0 +1,6 @@
+16.
+Döntsd el a harc kimenetelét:
+
+Gark		ÜGYESSÉG 7	     ÉLETERŐ 11
+
+Négy Forduló után, ha akarsz, Elmenekülhetsz a szoba végében lévő ajtók egyikén át - lapozz a 99-re. Ha folytatni akarod a harcot, tedd azt, és ha te győzöl - lapozz a 180-ra.

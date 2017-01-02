@@ -1,0 +1,6 @@
+30.
+A vadállat roppant erős. Kardot rántasz, és kezdetét veszi a harc.
+
+Karomvad	ÜGYESSÉG 9	       ÉLETERŐ 14
+
+Amikor a negyedik csapást is rámérted a vadállatra, lapozz a 241-re.

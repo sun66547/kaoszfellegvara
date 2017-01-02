@@ -1,0 +1,10 @@
+25.
+Az ajtó kinyílik, és egy hatalmas, kör alakú szobában találod magad. Elgondolkodva vakargatod a fejedet. A szoba közepén egy kis "szigetet" látsz, melyet széles árok vesz körül. A sziget közepén egy láda áll, fémpántok zárják le. Az árok túl széles és túl mély ahhoz, hogy átugorhasd. Bent, közvetlenül az ajtó mellett egy kötelet találsz. Egy másik ajtó is nyílik a szobából, épp azzal az ajtóval szemben, amelyen bejöttél. Mit teszel?
+
+Nem veszel tudomást a ládáról, és
+az árkot megkerülve a másik ajtóhoz
+mész?				Lapozz a 206-ra.
+Erővarázslatot alkalmazol, és átugrod
+az árkot?			Lapozz a 133-ra.
+Felveszed a kötelet, és kiagyalsz
+valami tervet?			Lapozz a 239-re.

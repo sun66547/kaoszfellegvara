@@ -1,0 +1,2 @@
+34.
+A kulcs megfordul, és kinyitod a ládát, amelyben egy másik kulcsot találsz, ezúttal egy fényes zöld fémkulcsot. Ha megpróbálod ezzel a kulccsal a harmadik ládikát kinyitni, lapozz a 89-re, ha inkább távozol a két kulccsal, lapozz a 237-re.

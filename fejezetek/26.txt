@@ -1,0 +1,9 @@
+26.
+Melyik varázslatot alkalmazod?
+
+A Tűzvarázslatot?		Lapozz a 87-re.
+Az Erőtlenség Varázstatot?	Lapozz a 345-re.
+A Teremtmény Hasonmás
+Varázslatot?			Lapozz a 101-re.
+
+Ha egyikkel sem rendelkezel, térj vissza a 304-re, és válassz újra.

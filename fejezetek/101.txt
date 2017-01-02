@@ -1,0 +1,6 @@
+101.
+A teremtmény hasonmása kettőtök közé áll. Parancsodra kezdetét veszi a küzdelem.
+
+Vízköpő Sárkány    ÜGYESSÉG 9    ÉLETERŐ 10
+
+Ha az általad életre keltett teremtmény győz, lapozz a 62-re. Ha a te Vízköpő Sárkányod veszít, eldöntheted, hogy egymagadban is megvívsz-e a teremtménnyel, vagy inkább elhagyod a szobát, és megpróbálkozol a középső erkélyajtóval. Lapozz a 64-re.

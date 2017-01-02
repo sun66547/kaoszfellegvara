@@ -1,0 +1,6 @@
+147.
+A Gólem a földre zuhan és darabokra törik. Megkönnyebbülve mész a dobozokhoz, és átvizsgálod őket. Melyiket nyitod ki elsőnek?
+
+Az első dobozt?		Lapozz a 260-ra.
+A második dobozt?		Lapozz a 129-re.
+A harmadik dobozt?		Lapozz a 370-re.

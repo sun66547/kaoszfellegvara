@@ -1,0 +1,7 @@
+56.
+A Fekete Elf sovány és toprongyos. Megkérdi, vajon vendég vagy-e vagy kalandor. Azt válaszolod, hogy vendég vagy, és azért jöttél, hogy megvizsgáld híres Borospincéjének a borát. Némi büszkeséggel megmutatja neked a borosüvegeket, melyeket ura, Rettenetes Balthus számára őriz itt. Azt állítja, hogy közülük néhány varázserővel bír. Felajánlja, hogy kóstold meg a borát. Melyiket kóstolod meg?
+
+A Vörösbort?			Lapozz a 120-ra.
+A Fehérbort?			Lapozz a 163-ra.
+A Rosét?			Lapozz a 334-re.
+Visszautasítod az ajánlatát és továbbmész? Lapon a 95-re.

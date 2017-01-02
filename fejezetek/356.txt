@@ -1,0 +1,7 @@
+356.
+Úgy látod, kissé megnyugszanak, hogy nem akarod őket bántani, és hívnak, ülj le közéjük a földre. A szoba kicsi, és szinte teljesen üres, csupán néhány lombos faág díszíti itt-ott a falakat, bár a levelek már réges-rég elhervadtak. A szoba egyik sarkában, a mennyezetbe vágott lyuk alatt tűz lobog. A szemközti falon két ajtót látsz: az egyik jobbra, a másik balra nyílik. Leülsz beszélgetni. Észreveszed, hogy ezek az apró, csont és bőr teremtmények Leselkedőknek nevezik magukat, és valóban szeretetre méltó társaság - nevetgélve tréfálkoznak veled. Úgy döntesz, hogy nem mondasz el nekik túl sokat a küldetésedről, de felteszel nekik néhány kérdést a helyet illetően. Rettegett Balthus, a vár ura ideje nagy részét a Fellegvárban tölti. Felesége gyönyörű varázslónő, aki igen hiú, és mindenben örömét leli, amit csak pénzzel és hatalommal meg lehet szerezni. Rengeteg ördögi teremtmény van a Fellegvárban, de leginkább a Gendzsiktől kell óvakodnod, akik éjjelente a Toronyban bóklásznak. Végül is fölállsz, megköszönöd a társalgást, és készülni kezdesz. Nyersz 2 ÉLETERŐ és 1 SZERENCSE pontot, amiért pihenhettél és információhoz jutottál. Mielőtt elmennél, a Leselkedők jutalmul azért, hogy jól érezték magukat a társaságodban, felajánlják, hogy valami jót tesznek veled. Választhatsz:
+
+Elfogadod az ajánlatukat?	Lapozz a 146-ra.
+Nem kockáztatsz, és távozol a bal oldali
+ajtón át?			Lapozz a 185-re.
+A jobb oldali ajtón át távozol?	Lapozz a 23-ra.

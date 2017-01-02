@@ -1,0 +1,6 @@
+152.
+Varázsolsz, és a teremtmény megáll az úton; nem tudja pontosan, mi is történik vele. Némi nehézség árán felemeli a baltáját, és elindul feléd, de szemmel láthatóan már nem olyan erős ellenfél, mint korábban volt. Kardot rántasz, hogy végezz a Garkkal.
+
+Gark		ÜGYESSÉG 5	     ÉLETERŐ 5
+
+Ha legyőzöd a teremtményt, lapozz a 180-ra.

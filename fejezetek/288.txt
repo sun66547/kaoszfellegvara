@@ -1,0 +1,13 @@
+288.
+A két teremtmény feléd közeledik. A Majom-Kutya támad elsőnek, majd a Kutya-Majom. Varázsolsz egyet, vagy megküzdesz velük? Alkalmazhatod
+
+az Erővarázslatot		Lapozz a 162-re.
+a Súlytalanság Varázslatot	Lapozz a 86-ra.
+
+Ha megküzdesz velük:
+
+			ÜGYESSÉG	ÉLETERŐ
+Majom-Kutya			7	     4
+Kutya-Majom			6	     6
+
+Ha mindkettőt megölöd a harcban, lapozz a 32-re.

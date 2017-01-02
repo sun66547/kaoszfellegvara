@@ -1,0 +1,6 @@
+330.
+A varázsló rémülten ordít fel, amikor előveszed az Üveget. Ekkor arra gondolsz, hogy ez a piciny teremtmény hasznos segítőtársad lehet, ezért kinyitod az üveg száját, és kiengeded. A varázsló arckifejezése azonban megváltozik, ravaszul elmosolyodik, és látod, hogy a kis Pók-ember nem Balthus felé megy, hanem feléd! Meg kell küzdened vele!
+
+Pók-ember	ÜGYESSÉG 7	    ÉLETERŐ 5
+
+Amint a teremtmény az első sebet ejti rajtad, lapozz a 208-ra. Ha nem sebesülsz meg és legyőzöd, lapozz a 119-re.

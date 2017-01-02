@@ -1,0 +1,6 @@
+275.
+Ez a Zsebszerkentyű olyan szerkezet, mely átalakulhat bármilyen fegyverré vagy hasznos tárggyá. Mindketten harcra készen álltok. Ha akarod, karddal is megküzdhetsz vele.
+
+Fekete Elf	ÜGYESSÉG 8	      ÉLETERŐ 4
+
+Ha akarod, Varázsolhatsz. Ha Erőtlenség Varázslatot alkalmazol, ÜGYESSÉGE 5-re csökken. Ha Teremtmény Hasonmás Varázslatot alkalmazol, egy Zsebszerkentyűvel felszerelt hasonmás Fekete Elf fog megküzdeni a valódi Elffel. (Döntsd el a csatát kettőjük között, és ha az eredeti Fekete Elf győz, végezz vele egymagad.) Ha Illúzió Varázslatot akarsz alkalmazni, lapozz a 399-re. Ha harc közben te győzöl, lapozz a 272-re.

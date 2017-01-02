@@ -1,0 +1,6 @@
+246.
+Eltűnsz, de celládból még mindig figyelheted Calacormot. Legnagyobb csodálkozásodra a vadállat nem vette észre, hogy eltűntél! Türelmesen vársz, de hiába, és ekkor izgulni kezdesz, hogy a Varázslat hatása lassan megszűnik. Lecsapkodod a lábadról a port. A teremtmény felnéz, és odasiet a cella ajtajához. De nem lát sehol! Kinyitja az ajtódat és belép a cellába, de amikor már bent van, Varázslatod kezdi elveszteni a hatását. "Be akarsz csapni, mi?" - szól Calacorm, és megragad. Meg kell küzdened a teremtménnyel:
+
+Calacorm	ÜGYESSÉG 9	       ÉLETERŐ 8
+
+Ha Erőtlenség Varázslatot alkalmazol vele szemben, ÜGYESSÉG pontjainak száma 5-tel csökken. Ha legyőzöd a teremtményt, elhagyhatod a börtönt az észak felé vezető folyosón át. Lapozz a 174-re.

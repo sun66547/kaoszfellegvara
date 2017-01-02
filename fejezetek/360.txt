@@ -1,0 +1,6 @@
+360.
+Megismétled a Varázslatot. Félig kész Hidrád nő még egy keveset, de még mindig nem nyerte el teljes alakját. Még egy Teremtmény Hasonmás Varázslatot kell alkalmaznod ahhoz, hogy a teremtmény teljes alakot öltsön. Ha harmadszor is meg akarsz próbálkozni e Varázslattal, tedd azt, és hagyd, hogy a két Hidra megküzdjön egymással:
+
+Hidra		ÜGYESSÉG 10	      ÉLETERŐ 17
+
+Ha az általad létrehozott teremtmény győz, lapozz a 229-re. Ha a te teremtményed veszít, vagy nem volt elegendő Varázslatod ahhoz, hogy megalkosd a teljes hasonmást, döntened kell, mit tegyél. Lapozz a 184-re.

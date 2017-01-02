@@ -1,0 +1,2 @@
+309.
+Mindketten átkutatjátok a magas férfi zsebeit. 20 Arany Tallért találsz, és pénzfeldobással döntitek el, kié legyen a tőr: ha fej, a tiéd, ha írás, az övé (dobj fel egy forintot, hogy dönthess!). Ha a tiéd lesz a tőr, lapozz a 15-re. Ha nem, lapozz a 245-re.

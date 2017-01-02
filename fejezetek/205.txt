@@ -1,0 +1,8 @@
+205.
+A magasabb férfi sértőnek tartja az árat, amit javasolsz, de az alacsonyabb elfogadja. A magasabb egyre hevesebben vitatkozik, és hirtelen kirántja a kardját. Az alacsonyabb is ugyanezt teszi, és mivel veszély fenyeget, te is. Ketten vagytok a magasabb férfi ellen. Nektek kell a csatát megnyernetek. Mielőtt belevágnátok az egyes Fordulókba, dobj egy kockával. Ha a kapott szám páratlan, a magasabb férfi támad elsőnek az alacsonyabbra, miközben te nem veszel részt ebben a Fordulóban (bár még egyszer kell dobnod az alacsonyabb nevében). Ha a kapott szám páros, a magasabb ellened fordul (ekkor az alacsonyabb marad ki ebből a Fordulóból). Ha az alacsonyabb férfi elesik a küzdelem során, a magasabb fogja veled megvívni a döntő csatát.
+
+			ÜGYESSÉG	ÉLETERŐ
+Magas férfi			8	       8
+Alacsony férfi			7	       6
+
+Ha a csatának vége és az alacsonyabb férfi marad életben, lapozz a 309-re. Ha viszont elesik, lapozz a 368-ra.

@@ -1,0 +1,6 @@
+190.
+A Gólem tökéletes hasonmása jelenik meg előtted. Megparancsolod neki, hogy támadja meg a valódi Gólemet, aki már csaknem föléd tornyosul. Döntsd a két Gólem közötti harcot:
+
+Gólem		ÜGYESSÉG 8	    ÉLETERŐ 10
+
+Ha az általad varázsolt hasonmás legyőzi a valódi Gólemet, lapozz a 147-re. Ha nem győzi le, neked kell megvívnod vele. Ha legyőzöd, lapozz szintén a 147-re.

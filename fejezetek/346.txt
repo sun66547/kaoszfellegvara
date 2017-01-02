@@ -1,0 +1,8 @@
+346.
+Amikor a Korongádok látják, hogy kardot rántasz, megállnak és izgatottan pusmogni kezdenek. Egyikük - nyilván a vezetőjük - visszaküldi a legkisebbet a folyosón (valószínűleg segítségért). A másik kettő előrántja késelt, és feléd gurul. Küzdj meg velük (egyenként, az adott sorrendben):
+
+			ÜGYESSÉG	ÉLETERŐ
+Első Korongád			7	       6
+Második Korongád		6	       5
+
+Ha legyőzöd, vagy a bal oldali folyosón mehetsz tovább, lapozz a 243-ra, vagy a jobb oldali folyosón- lapozz a 2-re.

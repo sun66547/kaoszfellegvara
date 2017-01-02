@@ -1,0 +1,8 @@
+348.
+"Nem kellene erre mennem - mondja O’Seamus. - Ez nem kellemes hely." Csak ezen a három ajtón át lehet továbbmenni. Kettő közülük igen veszélyes, a harmadik pedig nagyon büdös. A szoba másik végében három ajtó van. Az egyik kilincse sárgarézből van, a másiké vörösréz, a harmadiké bronz. Melyik ajtót választod? Azt, amelyiknek a kilincse:
+
+Sárgaréz?			Lapozz a 207-re.
+Vörösréz?			Lapozz a 22-re.
+Bronz?				Lapozz a 354-re.
+
+Ha inkább tanácsot kérsz O’Seamustól, lapozz a 68-ra.

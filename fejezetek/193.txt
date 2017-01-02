@@ -1,0 +1,8 @@
+193.
+Melyik Varázslatot alkalmazod?
+
+A Hamis Arany Varázslatot?	Lapozz a 211-re.
+A K.É.K. Varázslatot?		Lapozz a 123-ra.
+Az Illúzió Varázslatot?		Lapozz a 35-re.
+
+Ha egyikkel sem rendelkezel, lapozz a 283-ra.

@@ -1,0 +1,6 @@
+264.
+Hatalmas izmaid megfeszülnek, és megragadod kardod markolatát. Készen állsz, hogy megküzdj a Rinocérosz-emberrel. Különleges erődre való tekintettel újra dobhatsz az egyik kockával, amikor TÁMADÓERŐDET állapítod meg (ugyanis ÜGYESSÉG pontszámod plusz a megszokott két kockadobás helyett három kockadobás ponteredményének közös összege adja meg a TÁMADÓERŐDET):
+
+Rinocérosz-ember    ÜGYESSÉG 8     ÉLETERŐ 9
+
+Ha győzöl, beléphetsz a Fekete Toronyba. Lapozz 177-re.

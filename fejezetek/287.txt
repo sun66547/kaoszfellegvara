@@ -1,0 +1,8 @@
+287.
+Felajánlod a Kenőcsös Tégelyt. Egy láthatatlan lény kiragadja a kezedből, és odaviszi az egyik állatfejhez. Láthatatlan kezek lecsavarják a tégely tetejét, és a fej beleszagol a kenőcsbe. A fej morogva fordul feléd: "Ez csak egy alkimista gyógybalzsama! Mi hasznát vehetnénk ennek?" A tégely a földre esik és összetörik. Mit teszel?
+
+Felajánlod a Zsebszerkentyűt?	   Lapozz a 160-ra.
+Felajánlasz néhány Arany
+Tallért?				   Lapozz a 27-re.
+Sietve távozol, és keresel egy másik
+ajtót?				   Lapozz a 25-re.

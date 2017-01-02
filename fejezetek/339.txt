@@ -1,0 +1,6 @@
+339.
+Tarka népség üli körbe a tüzet. Egy bibircsókos arcú Ork félig sült, csontos húscafatot nyújt át a többieknek. Egy zöldes bőrű Törpe veszekedve panaszolja, hogy túl kevés húst kapott, miközben két tarkófejú Goblin - egy férfi meg egy nő - összeölelkezve ül a tűz mellett. Vihorásznak, nevetgélnek, s a nő, hogy nagyobb legyen a vigasság, kezével paskolja a férfi csúf arcát. Amikor a közelükbe érsz, elhallgatnak, és barátságtalan arccal néznek rád. Gúnyolni kezdik tiszta, szép ruhádat, és a Goblin nő megjegyzést tesz rád a társának. A Törpe lába előtt nyitott ládikót veszel észre, melyben folyadékkal teli üveg van. Mit teszel?
+
+Leülsz közéjük a tűz mellé?	Lapozz a 134-re.
+Megkérdezed, hogy leülhetsz-e
+közéjük?			Lapozz a 149-re.

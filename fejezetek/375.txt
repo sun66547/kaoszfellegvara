@@ -1,0 +1,6 @@
+375.
+Rámutat egy könyvre a polcon, mely ábécésorrendben tartalmazza az összes teremtmény leírását. Melyik címszót nézed meg?
+
+Calacorm?			Lapozz a 263-ra.
+Mik?				Lapozz a 135-re.
+Gendzsi?			Lapozz a 63-ra.

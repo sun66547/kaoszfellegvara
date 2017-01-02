@@ -1,0 +1,8 @@
+257.
+Körülnézel a szobában. Csak a te fáklyád fénye világítja meg. Bár a szoba nagy, alig van benne bútor; egy hatalmas lapos sziklatömb az asztal, mellette egy kisebb szikladarab a szék. Az egyik sarokban sárral összetapasztott kődarabok tornyosulnak. Nem tudod elképzelni, mi célt szolgálhatnak, bár a kőrakás tetején három vesszőből font ládikót pillantasz meg. Riadtan ugrasz hátra, amikor fáklyád fénye egy hatalmas emberalakot világít meg, mely szemmel láthatóan kőből készült és az ajtónál áll. A durván megmunkált férfiszobor valamivel nagyobb, mint egy ember. Rád mered, de nem vagy biztos benne, vajon lát-e téged. Mit teszel?
+
+A másik ajtóhoz rohansz?	Lapozz a 237-re.
+Megpróbálsz beszélni a
+férfiszoborral?			Lapozz a 357-re.
+Lassan a sarokban lévő ládikó felé
+osonsz?			Lapozz a 200-ra.

@@ -1,0 +1,6 @@
+363.
+Az erkély mentén három ajtó van. Melyikkel próbálkozol meg?
+
+A bal oldali ajtóval?		Lapozz a 228-ra.
+A középső ajtóval?		Lapozz a 64-re.
+A jobb oldali ajtóval?		Lapozz a 304-re.

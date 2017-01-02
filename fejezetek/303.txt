@@ -1,0 +1,6 @@
+303.
+A Gólem egyre közelebb jön, és te karddal támadsz rá. Kardod azonban csupán a követ éri, s hangosan megcsörren rajta. Neked kell eldöntened a Csata kimenetelét. Vonj le magadtól 1 ÜGYESSÉG pontot.
+
+Gólem		ÜGYESSÉG 8	    ÉLETERŐ 10
+
+Ha legyőzöd a teremtményt, lapozz a 147-re.

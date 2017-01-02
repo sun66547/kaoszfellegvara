@@ -1,0 +1,6 @@
+399.
+Varázsolsz egyet. Az Elf közeledik, közben eltűnik a kezéből a Zsebszerkentyű. Szemmel láthatóan védtelenül áll előtted, és azon töri a fejét, vajon megküzdjön-e veled, vagy elmeneküljön. Gyorsan megtámadhatod és lekaszabolhatod:
+
+Fekete Elf	ÜGYESSÉG 4	      ÉLETERŐ 4
+
+Ha te győzöl, lapozz a 272-re

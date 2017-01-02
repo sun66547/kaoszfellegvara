@@ -1,0 +1,6 @@
+262.
+Miután varázsoltál, egy ugyanúgy felfegyverzett, ugyanolyan Gark jelenik meg előtted. Vezényszavadra kezdetét veszi a csata:
+
+Gark		ÜGYESSÉG 7	       ÉLETERŐ 11
+
+Ha a hasonmás veszít, neked kell megküzdened vele, a saját kardoddal. Ha vagy te, vagy a te Garkod győzi le a teremtményt, lapozz a 180-ra.

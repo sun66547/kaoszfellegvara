@@ -1,0 +1,8 @@
+169.
+A helyiség valójában hatalmas ebédlő. Közepén hosszú asztal áll, egyszerre negyven-ötven ember tud köré leülni. Sokféle ajtó és folyosó nyílik innen, de téged elsősorban az a két széles lépcső érdekel, amelyek a terem fölött lévő belső erkély két széléhez vezetnek fel. Képek és páncélruhák díszítik a termet, ahol jelenleg senki nem tartózkodik. Mit teszel?
+
+Felmész a bal oldali lépcsőn?	  Lapozz a 19-re.
+Felmész a jobb oldali lépcsőn?	  Lapozz a 197-re.
+Megnézegeted a képeket a
+falon?				   Lapozz a 317-re.
+Megvizsgálod a páncélruhákat?	   Lapozz a 151-re.

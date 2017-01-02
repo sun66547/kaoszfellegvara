@@ -1,0 +1,6 @@
+337.
+A varázsló legalább olyan kardforgató, mint amilyen nagy mágus. Küzdj meg vele:
+
+Rettegett Balthus   ÜGYESSÉG 12   ÉLETERŐ 19
+
+Ha sikerült ellopnod a varázsló gyűrűjét, levonhatsz 2 pontot az ÜGYESSÉGÉBŐL, mivel a Kardforgatás Gyűrűjét viselte. Ha legyőzöd Rettegett Balthust, lapozz a 400-ra.

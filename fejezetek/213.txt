@@ -1,0 +1,9 @@
+213.
+Épp jókor rántod elő a kardodat, mivel a Törpe már-már elér. Egymás után küzdj meg velük:
+
+			ÜGYESSÉG	ÉLETERŐ
+Törpe				5	       6
+Goblin				6	       4
+Ork				5	       7
+
+Ha te győzöl, lapozz a 235-re. Elmenekülhetsz, ha akarsz, és elrejtőzhetsz az udvar közepén lévő szobor mögött. Lapozz a 209-re.

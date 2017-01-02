@@ -1,0 +1,6 @@
+290.
+A Rinocérosz-ember odalép hozzád, és feléd döf a lándzsájával. Gyorsan félreugrasz. Bár nem visel páncélruhát, mégis úgy ítéled meg, hogy vastag bőre megfelelően védi. El kell döntened, vajon megvívsz-e vele, vagy inkább varázsolsz-e ellene. Ha előrántod a kardodat, lapozz a 325-re; ha varázsolsz, válassz az alábbi Varázslatok közül:
+
+Erőtlenség Varázslat		Lapozz a 307-re.
+Súlytalanság Varázslat		Lapozz a 70-re.
+Erővarázslat			Lapozz a 264-re.

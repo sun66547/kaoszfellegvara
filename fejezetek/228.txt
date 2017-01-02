@@ -1,0 +1,6 @@
+228.
+A zárt ajtó igen erős; kemény tölgyfából készült. Nem Úgy néz ki, mint amit be tudnál törni, de megpróbálhatod. Ha akarod, Erővarázslatot is alkalmazhatsz, hogy bejuss rajta. Egyébként a zár, amely rézből van, egy Rézkulcs segítségével kinyitható. Ha van ilyen kulcsod, megpróbálkozhatsz vele. Mit teszel?
+
+Megpróbálod betörni az ajtót?	Lapozz a 88-ra.
+Erővarázslatot alkalmazol?	Lapozz a 170-re.
+A Rézkulccsal nyitod ki?	Lapozz a 296-ra.
